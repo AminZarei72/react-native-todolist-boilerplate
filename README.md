@@ -66,11 +66,15 @@ npm run start
     - then `npm run firebase`
         -note:if you want to enable more of firebase features or modify ports, modify `firebase/firebase.json`
 
+ - ts-firebase-rules(tsfr)
+   - `npm run tsfr:watch`
+ 
  - build 
     - web : `npm run build`
     - android : `npm run build:android`
 
 
+note:to see full list of useful scripts check package.json "scripts" section.
 
  ✨✨✨✨✨✨
 
