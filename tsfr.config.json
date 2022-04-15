@@ -1,0 +1,7 @@
+{
+    "nativeFilesPath": "tsfr/native/functions",
+    "outputFilePath": "firebase/firestore.rules",
+    "targetDotRulesPath": "tsfr/native/firestore.rules",
+    "userMainIndexTs": "tsfr/index.ts",
+    "mainDir": "tsfr"
+}

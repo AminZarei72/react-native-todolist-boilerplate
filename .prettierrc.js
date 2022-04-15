@@ -1,0 +1,22 @@
+module.exports = {
+  // bracketSpacing: false,
+  // jsxBracketSameLine: true,
+  // singleQuote: true,
+  // trailingComma: 'all',
+  // arrowParens: 'avoid',
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "always",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false
+};

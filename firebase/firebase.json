@@ -1,0 +1,26 @@
+
+{
+  
+  "emulators": {
+    "firestore": {
+      "port": 9101
+      ,
+      "host": "localhost"
+      // "host": "10.0.2.2"
+      // "host": "0.0.0.0"
+    }, 
+    "ui": {
+      "enabled": true
+    } 
+  }, 
+  "remoteconfig": {
+    "template": "remoteconfig.template.json"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+} 
